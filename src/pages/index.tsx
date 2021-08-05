@@ -1,5 +1,3 @@
-const a = 'asdasdsd'
-
 export default function Home() {
   return (
     <div>
